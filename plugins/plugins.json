@@ -9,7 +9,7 @@
     "language": "bn",
     "tvTypes": ["Movie", "TvSeries", "Anime", "AnimeMovie", "Cartoon", "AsianDrama", "Documentary", "OVA", "Others"],
     "baseUrl": "MAIN_URL",
-    "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/plugins/circleftp.sky"
+    "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/main/plugins/circleftp.sky"
   },
   {
     "id": "sky.niloy.dhakaflix",
@@ -21,6 +21,6 @@
     "language": "bn",
     "tvTypes": ["Movie", "TvSeries", "Anime", "AsianDrama", "Documentary", "Cartoon"],
     "baseUrl": "http://172.16.50.14",
-    "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/plugins/dhakaflix.sky"
+    "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/main/plugins/dhakaflix.sky"
   }
 ]
