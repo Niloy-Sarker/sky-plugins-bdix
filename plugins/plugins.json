@@ -13,15 +13,15 @@
     "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/main/plugins/circleftp.sky"
   },
   {
-    "id": "sky.niloy.dhakaflix",
-    "name": "DhakaFlix",
-    "internalName": "dhakaflix",
+    "id": "sky.niloy.dhakaflix14",
+    "name": "DhakaFlix 14",
+    "internalName": "dhakaflix14",
     "version": 1,
     "authors": ["Niloy"],
-    "description": "DhakaFlix Provider (BDIX) - Movies in Bangla, English, Hindi, Tamil & More",
+    "description": "DhakaFlix 14 Provider (BDIX) - Movies in Bangla, English, Hindi, Tamil & More",
     "language": "bn",
     "tvTypes": ["Movie", "TvSeries", "Anime", "AsianDrama", "Documentary", "Cartoon"],
     "baseUrl": "http://172.16.50.14",
-    "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/main/plugins/dhakaflix.sky"
+    "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/main/plugins/dhakaflix14.sky"
   }
 ]
