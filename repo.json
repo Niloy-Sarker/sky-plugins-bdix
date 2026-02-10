@@ -4,6 +4,6 @@
   "description": "SkyStream BDIX plugins repository",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/plugins/plugins.json"
+    "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/main/plugins/plugins.json"
   ]
 }
