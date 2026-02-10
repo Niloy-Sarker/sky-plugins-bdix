@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sky.niloy.circleftp",
+    "name": "CircleFTP",
+    "internalName": "circleftp",
+    "version": 1,
+    "authors": ["Niloy"],
+    "description": "CircleFTP Provider (BDIX)",
+    "language": "bn",
+    "tvTypes": ["Movie", "TvSeries", "Anime", "AnimeMovie", "Cartoon", "AsianDrama", "Documentary", "OVA", "Others"],
+    "baseUrl": "MAIN_URL",
+    "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/plugins/circleftp.sky"
+  },
+  {
+    "id": "sky.niloy.dhakaflix",
+    "name": "DhakaFlix",
+    "internalName": "dhakaflix",
+    "version": 1,
+    "authors": ["Niloy"],
+    "description": "DhakaFlix Provider (BDIX) - Movies in Bangla, English, Hindi, Tamil & More",
+    "language": "bn",
+    "tvTypes": ["Movie", "TvSeries", "Anime", "AsianDrama", "Documentary", "Cartoon"],
+    "baseUrl": "http://172.16.50.14",
+    "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/plugins/dhakaflix.sky"
+  }
+]
