@@ -23,5 +23,17 @@
     "tvTypes": ["Movie", "TvSeries", "Anime", "AsianDrama", "Documentary", "Cartoon"],
     "baseUrl": "http://172.16.50.14",
     "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/main/plugins/dhakaflix14.sky"
+  },
+  {
+    "id": "sky.niloy.dhakaflix12",
+    "name": "DhakaFlix 12",
+    "internalName": "dhakaflix12",
+    "version": 1,
+    "authors": ["Niloy"],
+    "description": "DhakaFlix 12 Provider (BDIX) - Series",
+    "language": "bn",
+    "tvTypes": ["TvSeries"],
+    "baseUrl": "http://172.16.50.12",
+    "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/main/plugins/dhakaflix12.sky"
   }
 ]
