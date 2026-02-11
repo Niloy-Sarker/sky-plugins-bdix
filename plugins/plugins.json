@@ -35,5 +35,29 @@
     "tvTypes": ["TvSeries"],
     "baseUrl": "http://172.16.50.12",
     "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/main/plugins/dhakaflix12.sky"
+  },
+  {
+    "id": "sky.niloy.dhakaflix7",
+    "name": "DhakaFlix 7",
+    "internalName": "dhakaflix7",
+    "version": 1,
+    "authors": ["Niloy"],
+    "description": "DhakaFlix 7 Provider (BDIX) - Movies",
+    "language": "bn",
+    "tvTypes": ["Movie"],
+    "baseUrl": "http://172.16.50.7",
+    "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/main/plugins/dhakaflix7.sky"
+  },
+  {
+    "id": "sky.niloy.dhakaflix9",
+    "name": "DhakaFlix 9",
+    "internalName": "dhakaflix9",
+    "version": 1,
+    "authors": ["Niloy"],
+    "description": "DhakaFlix 9 Provider (BDIX)",
+    "language": "bn",
+    "tvTypes": ["Movie", "AnimeMovie", "TvSeries"],
+    "baseUrl": "http://172.16.50.9",
+    "url": "https://raw.githubusercontent.com/Niloy-Sarker/sky-plugins-bdix/refs/heads/main/plugins/dhakaflix9.sky"
   }
 ]
